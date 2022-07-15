@@ -1,0 +1,23 @@
+.container{
+    background-color:darkgrey;
+    padding: 10px;
+    max-width: 50%;
+    display: flex;
+}
+form{
+    margin: 20px;
+    font-weight: 600;
+    text-align: right;
+    color: aliceblue;
+}
+h1{
+    margin: 20px;
+    text-align: center;
+    color: yellow;
+}
+a{
+    font-weight: 600;
+    text-align: center;
+    color: blue;
+    margin: 70px;
+}
