@@ -1,8 +1,7 @@
 .container{
     background-color:darkgrey;
     padding: 10px;
-    max-width: 50%;
-    display: flex;
+    max-width: 60%;
 }
 form{
     margin: 20px;
@@ -10,7 +9,7 @@ form{
     text-align: right;
     color: aliceblue;
 }
-h1{
+h1, h2{
     margin: 20px;
     text-align: center;
     color: yellow;
@@ -20,4 +19,9 @@ a{
     text-align: center;
     color: blue;
     margin: 70px;
+}
+.tarjeta{
+    font-weight: 600;
+    text-align: center;
+    color:aliceblue;
 }
