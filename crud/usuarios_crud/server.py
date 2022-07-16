@@ -1,5 +1,5 @@
 from flask import Flask, render_template,redirect,request,session
-from users import Usuario
+from models.users import Usuario
 from flask_app.controllers import usuarios
 
 from flask_app import app
